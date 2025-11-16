@@ -24,14 +24,10 @@ I enjoy building beautiful UI, solving problems through code, and creating real-
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow" />
 </p>
 
-### *Frontend*
+### *Framework*
 <p>
   <img src="https://img.shields.io/badge/React.js-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-</p>
-
-### *Backend*
-<p>
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=6CC24A" />
   <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
 </p>
