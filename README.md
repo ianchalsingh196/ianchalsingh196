@@ -1,11 +1,11 @@
-<!-- Typing Animation -->
+<!-- Typing Animation (Pink Theme) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+MERN+Stack+Developer;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+Something+New+%E2%9A%A1">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF69B4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+💻;Java+%7C+MERN+Stack+Developer;Creative+Tech+Enthusiast+✨;Always+Learning+New+Things+🌸">
 </p>
 
-<!-- Coder Illustration -->
+<!-- Girl Coder Illustration -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+  <img src="https://i.imgur.com/rs7t4pF.gif" width="350"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Anchal Singh</h1>
@@ -14,8 +14,8 @@
 ---
 
 ### 👩‍💻 About Me  
-I’m a BTech engineering student passionate about full-stack development, Java, and creating real-life projects.  
-I love building clean UIs, exploring new tech, and improving my coding skills every day.
+I’m a BTech engineering student passionate about full-stack development, Java, MERN stack and building real-life innovative projects.  
+I love creating clean UI, designing beautiful web experiences, and learning new technologies.
 
 ---
 
@@ -26,7 +26,7 @@ I love building clean UIs, exploring new tech, and improving my coding skills ev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh-devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </p>
@@ -78,6 +78,6 @@ I love building clean UIs, exploring new tech, and improving my coding skills ev
 ## 🔗 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/anchalsingh06?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
