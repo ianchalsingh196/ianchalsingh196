@@ -5,7 +5,7 @@
 
 <!-- Girl Coder Illustration -->
 <p align="center">
-  <img src="https://i.imgur.com/rs7t4pF.gif" width="350"/>
+  <img src="https://raw.githubusercontent.com/aniketchaudhari3/illustrations/main/coder-girl-dark.png"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Anchal Singh</h1>
