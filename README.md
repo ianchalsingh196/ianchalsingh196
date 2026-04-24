@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a Full-Stack Developer dedicated to building scalable MERN stack applications and mastering the foundations of computer science. Currently, I am balancing my development projects with a rigorous 150-day commitment to DSA in Java. I thrive on solving complex problems, writing clean code, and turning technical challenges into real-world solutions. 🚀
+I am a Full-Stack Developer dedicated to building scalable MERN stack applications and mastering the foundations of computer science. Currently, I am balancing my development projects with DSA in Java. I thrive on solving complex problems, writing clean code, and turning technical challenges into real-world solutions. 🚀
 
 ---
 
