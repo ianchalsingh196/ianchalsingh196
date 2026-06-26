@@ -21,7 +21,7 @@ I am a Full-Stack Developer dedicated to building scalable MERN stack applicatio
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Anchal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=4" alt="Anchal's Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=7" alt="Anchal's Streak Stats" />
 </p>
 ---
 
