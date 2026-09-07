@@ -38,19 +38,19 @@ I am a Full-Stack Developer dedicated to building scalable MERN stack applicatio
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=emerald&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=emerald&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianchalsingh196&theme=tokyonight&hide_border=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=emerald&hide_border=true" alt="Streak Stats" width="98%" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ianchalsingh196/ianchalsingh196/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianchalsingh196&theme=emerald" alt="Contribution Graph" width="98%" />
 </p>
 
 ---
