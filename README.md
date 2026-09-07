@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anchal Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+MERN+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+MERN+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 ---
@@ -12,17 +12,39 @@ I am a Full-Stack Developer dedicated to building scalable MERN stack applicatio
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,react,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode" />
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,c,python,html,css" alt="Languages" />
+</p>
+
+**Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks and Libraries" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+</p>
+
+**Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Anchal's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=7" alt="Anchal's Streak Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=emerald&hide_border=true&count_private=true" alt="Anchal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=emerald&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=emerald&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=7" alt="Anchal's Streak Stats" width="98%" />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
