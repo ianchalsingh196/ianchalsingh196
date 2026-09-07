@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anchal Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+MERN+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Java+%7C+MERN+Developer;Tech+Enthusiast" alt="Typing Animation" />
 </p>
 
 ---
@@ -23,14 +23,9 @@ I am a Full-Stack Developer dedicated to building scalable MERN stack applicatio
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks and Libraries" />
 </p>
 
-**Databases**
+**Databases & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
-</p>
-
-**Tools & Platforms**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Databases and Tools" />
 </p>
 
 ---
@@ -38,20 +33,20 @@ I am a Full-Stack Developer dedicated to building scalable MERN stack applicatio
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=dark&hide_border=true" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=dark&hide_border=true" width="95%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=dark&hide_border=true" height="140" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ianchalsingh196/ianchalsingh196/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianchalsingh196&theme=github-dark&hide_border=true" height="220" alt="Activity Graph" />
 </p>
 
 ---
