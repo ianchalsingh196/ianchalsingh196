@@ -35,26 +35,22 @@ I am a Full-Stack Developer dedicated to building scalable MERN stack applicatio
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Contribution Activity Radar Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianchalsingh196&theme=tokyonight&hide_border=true" alt="Activity Graph" width="98%" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
+  <img src="https://raw.githubusercontent.com/ianchalsingh196/ianchalsingh196/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
 </p>
 
 ---
