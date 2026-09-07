@@ -35,14 +35,19 @@ I am a Full-Stack Developer dedicated to building scalable MERN stack applicatio
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=emerald&hide_border=true&count_private=true" alt="Anchal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=emerald&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=emerald&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=7" alt="Anchal's Streak Stats" width="98%" />
+  <!-- Contribution Activity Radar Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Activity Graph" width="98%" />
 </p>
 
 ---
