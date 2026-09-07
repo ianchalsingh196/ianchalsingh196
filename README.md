@@ -1,61 +1,39 @@
 <h1 align="center">Hi 👋, I'm Anchal Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+MERN+Developer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=400&lines=Full+Stack+Developer;Java+%7C+MERN+Developer" alt="Typing Animation" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-I am a Full-Stack Developer dedicated to building scalable MERN stack applications and mastering the foundations of computer science. Currently, I am balancing my development projects with DSA in Java. I thrive on solving complex problems, writing clean code, and turning technical challenges into real-world solutions. 🚀
+### 🛠 Tech Stack
 
----
-
-## 🛠 Tech Stack
-
-**Languages**
+**Languages & Frameworks:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,c,python,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,java,c,python,react,nextjs,nodejs,express,tailwind" alt="Skills" />
 </p>
 
-**Frameworks & Libraries**
+**Databases & Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks and Libraries" />
-</p>
-
-**Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
-</p>
-
-**Tools & Platforms**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Tools" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=emerald&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=emerald&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ianchalsingh196&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ianchalsingh196&layout=compact&theme=dark&hide_border=true" width="45%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=emerald&hide_border=true" alt="Streak Stats" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ianchalsingh196&theme=dark&hide_border=true" width="80%" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianchalsingh196&theme=emerald" alt="Contribution Graph" width="98%" />
-</p>
-
----
-
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/anchalsingh06">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
