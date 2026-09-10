@@ -43,9 +43,9 @@ I am a Full-Stack Developer dedicated to building scalable MERN stack applicatio
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianchalsingh196&amp;theme=github-dark" alt="Activity Graph" width="100%" />
-</div>
+</div> -->
 
 ---
 
